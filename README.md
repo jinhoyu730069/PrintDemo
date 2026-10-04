@@ -142,3 +142,4 @@ Table을 이용하여 데이터를 표 형태로 출력할 수 있습니다.
 - Rich
 - Git
 - GitHub
+- Git branch practice
