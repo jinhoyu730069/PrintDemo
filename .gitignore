@@ -1,7 +1,2 @@
-# 파일
-main_print_v1.ipynb
-*.avi
-
-# 폴더
-venv/
-.vscode/
+﻿__pycache__/
+*.pyc
